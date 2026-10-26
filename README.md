@@ -33,7 +33,8 @@ Es gibt zwei einfache Wege, Integrationen aus diesem Repository in Home Assistan
 7. Gehe anschließend auf **Einstellungen** $\rightarrow$ **Geräte & Dienste** $\rightarrow$ **Integration hinzufügen** und wähle die Integration aus.
 
 ### Methode 2: One-Click "My Home Assistant" Link
-*(Ersetze `<DEIN_GITHUB_USERNAME>` durch deinen echten GitHub-Benutzernamen)*
+
+Klicke einfach auf folgenden Button, um die Integration direkt in deinem Home Assistant zu öffnen und hinzuzufügen:
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Limo123123&repository=ha-tomons-charger&category=integration)
 
