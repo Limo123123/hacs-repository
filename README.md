@@ -12,7 +12,7 @@ Dieses Repository dient als zentraler Katalog und Index für benutzerdefinierte 
 
 | Integration | Kategorie | Status | Beschreibung | Repository-Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Tomons / Inateck EV Wallbox** | `Integration` | 🟢 Aktiv (v1.0.0) | Vollständige Steuerung und Telemetrie für Tomons / Inateck Wallboxen (AC EV Charger). Live-Werte (V, A, W, kWh, Temp), Ladeleistung-Slider (6–32 A), Start/Stopp-Schalter und Energy Dashboard Integration. | [ha-tomons-charger](../ha-tomons-charger) |
+| **Tomons / Inateck EV Wallbox** | `Integration` | 🟡 Beta (v1.0.5) | Vollständige Steuerung und Telemetrie für Tomons / Inateck Wallboxen (AC EV Charger). Live-Werte (V, A, W, kWh, Temp), Ladeleistung-Slider (6–32 A), Start/Stopp-Schalter und Energy Dashboard Integration. | [ha-tomons-charger](https://github.com/Limo123123/ha-tomons-charger) |
 
 ---
 
