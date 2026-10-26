@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Tomons / Inateck EV Wallbox",
+    "repository": "Limo123123/ha-tomons-charger",
+    "category": "integration",
+    "description": "Native Home Assistant Integration für Tomons und Inateck EV Wallboxen (AC Charger) mit Live-Telemetrie, Stromgrenzen-Slider, Start/Stopp und kWh-Erfassung."
+  }
+]
